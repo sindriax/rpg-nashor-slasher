@@ -1,4 +1,4 @@
-# Nashow Slasher - RPG Game
+# Nashor Slasher - RPG Game
 
 Welcome to my first-ever project! This is a simple RPG that I created to learn and practice HTML, CSS, and JavaScript. It represents my journey into game development and web technologies.
 
