@@ -15,7 +15,6 @@ body {
 #game {
   max-width: 500px;
   max-height: 400px;
-  /* background-color: rgba(84, 81, 77, 0.7); */
   background-image: url('images/river6.png');
   background-position: center;
   background-size: cover;
@@ -60,11 +59,3 @@ button {
   margin-bottom: -1px;
   margin-left: 2px;
 }
-
-/* #slasher{
-  width: 300px;
-  margin-left: 400px;
-}
-header{
-  width: 100%;
-} */
