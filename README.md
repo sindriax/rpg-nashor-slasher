@@ -10,7 +10,7 @@ Welcome to my first-ever project! This is a simple RPG that I created to learn a
 
 ## How To Play
 
-Once you open the (deployment link)[https://nashor-slasher.netlify.app/] in your web browser, you'll be presented with the RPG interface. Follow the on-screen instructions to navigate through the game, make choices, and interact with different elements.
+Once you open the [deployment link](https://nashor-slasher.netlify.app/) in your web browser, you'll be presented with the RPG interface. Follow the on-screen instructions to navigate through the game, make choices, and interact with different elements.
 
 ## Learning Objectives
 
@@ -20,4 +20,4 @@ Once you open the (deployment link)[https://nashor-slasher.netlify.app/] in your
 
 ## Deployment
 
-(Nashor Slasher RPG Game Link)[https://nashor-slasher.netlify.app/]
+[Nashor Slasher RPG Game Link](https://nashor-slasher.netlify.app/)
